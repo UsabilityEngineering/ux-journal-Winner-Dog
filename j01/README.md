@@ -6,18 +6,21 @@ An aerial is when your car is essentially "flying" in the air. Remember that the
 
 You first want to enter a game mode that allows you to move your car. I recommend the Tutorial for aerials since it's literally a place for a player to practice the mechanic.
 
-
+![Screenshot 2024-11-26 234142](https://github.com/user-attachments/assets/2796033d-ba03-46c6-b10e-dedbb8df6d66)
 
 Once you're in-game, you want to position your car in front and under the ball. On KBM (Keyboard and Mouse), you can move your car using the "WASD" keys.
 
+![Screenshot 2024-11-26 234706](https://github.com/user-attachments/assets/35f62850-5794-4406-ac99-e9fa1c3b4536)
 
 
 Next, you want to hit the jump button. On KBM, the default button would be the right-click button on the mouse.
 
+![Screenshot 2024-11-26 234835](https://github.com/user-attachments/assets/7da77c2b-4093-4808-a88d-9c7795710992)
 
 
 You would then lean backward in the air so that the front of your car is pointing up. On KBM, this would be the 'S' key.
 
+![Screenshot 2024-11-26 235132](https://github.com/user-attachments/assets/c98b3cfb-8b50-4533-bd30-058cba91078d)
 
 
 Lastly, you want to hit the boost button which will allow your car to hit the ball into the goal. On KBM, the default button is left-click on the mouse.
