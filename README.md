@@ -7,7 +7,7 @@ I'm an electrical engineer and I am currently learning Korean. I am taking this 
 
 ## UX Team Project
 
-[Beginners]
+[Beginners](https://chicostate.github.io/ux-Beginners/)
 
 ## UX Journal
 
